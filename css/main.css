@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  main{
+    background-color: hsl(0deg 0% 90%);
+    margin: 25px 10px;
+    font-family: arial,sans-serif;
+    padding: 15px;
+    line-height:1.6;
+  }
+  header{
+    text-align: center;
+  }
+  h1{
+    padding-top:20px;
+    font-size: 2.5rem;
+  }
+  #title{
+    padding: 30px 0 15px 0; 
+  }
+  #img-div{
+    padding:10px;
+    background-color: white;
+  }
+  img{
+    max-width:100%;
+    height: auto;
+    display: block;
+    margin:0 auto;
+  }
+  #img-caption{
+    text-align: center;
+  }
+  h3{
+    text-align: center;
+    margin: 50 0;
+  }
+  ul{
+     
+    max-width:550px;
+    margin:16px auto;
+  }
+  ul>li{
+    margin:16px 0;
+    
+    }
+  #conclusion{
+    max-width:550px;
+    margin:30px auto;
+   
+  }
+  #conclusion>p{
+    font-style: italic;
+    text-align:justify;
+    padding:10px 0;
+  }
+  
+  
+  
+  
